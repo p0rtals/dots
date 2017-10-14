@@ -1,0 +1,25 @@
+##
+## Arch Linux Repository Mirrorlist
+##
+
+## United States
+Server = http://mirror.epiphyte.network/archlinux/$repo/os/$arch
+
+## United States
+Server = http://mirror.hackingand.coffee/arch/$repo/os/$arch
+
+## United States
+Server = http://mirror.kaminski.io/archlinux/$repo/os/$arch
+
+## United States
+Server = http://il.us.mirror.archlinux-br.org/$repo/os/$arch
+
+## United States
+Server = http://ca.us.mirror.archlinux-br.org/$repo/os/$arch
+
+## United States
+Server = http://mirrors.liquidweb.com/archlinux/$repo/os/$arch
+
+
+
+

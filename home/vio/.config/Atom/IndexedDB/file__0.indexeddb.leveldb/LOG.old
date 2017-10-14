@@ -1,0 +1,43 @@
+2017/10/14-05:33:42.303 801 Reusing MANIFEST /home/vio/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2017/10/14-05:33:42.303 801 Recovering log #8
+2017/10/14-05:33:42.348 801 Reusing old log /home/vio/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000008.log 
+2017/10/14-06:24:42.379 2513 Level-0 table #12: started
+2017/10/14-06:24:42.446 2513 Level-0 table #12: 2375959 bytes OK
+2017/10/14-06:24:42.480 2513 Delete type=0 #8
+2017/10/14-06:41:49.935 2513 Compacting 2@0 + 1@1 files
+2017/10/14-06:41:50.027 2513 Generated table #13@0: 10 keys, 13492 bytes
+2017/10/14-06:41:50.027 2513 Compacted 2@0 + 1@1 files => 13492 bytes
+2017/10/14-06:41:50.052 2513 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/10/14-06:41:50.052 2513 Delete type=2 #12
+2017/10/14-06:41:50.052 2513 Delete type=2 #7
+2017/10/14-06:41:50.052 2513 Delete type=2 #9
+2017/10/14-06:58:47.383 2513 Compacting 1@1 + 1@2 files
+2017/10/14-06:58:47.502 2513 Generated table #14@1: 37 keys, 13894 bytes
+2017/10/14-06:58:47.502 2513 Compacted 1@1 + 1@2 files => 13894 bytes
+2017/10/14-06:58:47.527 2513 compacted to: files[ 0 0 1 0 0 0 0 ]
+2017/10/14-06:58:47.527 2513 Delete type=2 #13
+2017/10/14-06:58:47.527 2513 Delete type=2 #5
+2017/10/14-07:00:22.692 2513 Level-0 table #16: started
+2017/10/14-07:00:22.771 2513 Level-0 table #16: 2321889 bytes OK
+2017/10/14-07:00:22.797 2513 Delete type=0 #11
+2017/10/14-07:30:52.890 2513 Level-0 table #18: started
+2017/10/14-07:30:52.955 2513 Level-0 table #18: 2310299 bytes OK
+2017/10/14-07:30:52.989 2513 Delete type=0 #15
+2017/10/14-07:51:19.768 2513 Level-0 table #20: started
+2017/10/14-07:51:19.854 2513 Level-0 table #20: 2286582 bytes OK
+2017/10/14-07:51:19.888 2513 Delete type=0 #17
+2017/10/14-08:08:19.731 2513 Level-0 table #22: started
+2017/10/14-08:08:19.805 2513 Level-0 table #22: 2240941 bytes OK
+2017/10/14-08:08:19.831 2513 Delete type=0 #19
+2017/10/14-10:42:43.083 2513 Level-0 table #24: started
+2017/10/14-10:42:43.171 2513 Level-0 table #24: 2217396 bytes OK
+2017/10/14-10:42:43.196 2513 Delete type=0 #21
+2017/10/14-10:42:43.197 2513 Compacting 4@0 + 1@1 files
+2017/10/14-10:42:43.313 2513 Generated table #25@0: 3 keys, 7476 bytes
+2017/10/14-10:42:43.313 2513 Compacted 4@0 + 1@1 files => 7476 bytes
+2017/10/14-10:42:43.338 2513 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/10/14-10:42:43.338 2513 Delete type=2 #22
+2017/10/14-10:42:43.338 2513 Delete type=2 #20
+2017/10/14-10:42:43.338 2513 Delete type=2 #18
+2017/10/14-10:42:43.339 2513 Delete type=2 #24
+2017/10/14-10:42:43.339 2513 Delete type=2 #16

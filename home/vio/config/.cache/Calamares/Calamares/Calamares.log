@@ -1,0 +1,61 @@
+2017-10-14 - 06:19:05 [1]: Using Calamares settings file at "/etc/calamares/settings.conf" 
+2017-10-14 - 06:19:05 [1]: Using Calamares branding file at "/etc/calamares/branding/archlabs/branding.desc" 
+2017-10-14 - 06:19:05 [1]: WARNING: the selected branding component does not ship translations. 
+2017-10-14 - 06:19:05 [1]: Loaded branding component "archlabs" 
+2017-10-14 - 06:19:05 [1]: STARTUP: initQmlPath, initSettings, initBranding done 
+2017-10-14 - 06:19:05 [1]: STARTUP: initModuleManager: module init started 
+2017-10-14 - 06:19:05 [1]: STARTUP: initModuleManager: all modules init done 
+2017-10-14 - 06:19:05 [1]: STARTUP: initJobQueue done 
+2017-10-14 - 06:19:05 [1]: Available size QSize(1920, 1056) 
+2017-10-14 - 06:19:05 [1]:   Proposed window size: 1024 540 
+2017-10-14 - 06:19:05 [1]: STARTUP: CalamaresWindow created; loadModules started 
+2017-10-14 - 06:19:05 [1]: Initial locale  "en_US" 
+2017-10-14 - 06:19:05 [8]: Translation: Calamares: Using system locale: "en_US"
+2017-10-14 - 06:19:05 [1]: Welcome string false "ArchLabs" 
+2017-10-14 - 06:19:06 [1]: ViewModule "welcome@welcome" loading complete. 
+2017-10-14 - 06:19:06 [1]: WARNING: guessLocaleConfiguration can't guess from an empty list. 
+2017-10-14 - 06:19:06 [1]: ViewModule "locale@locale" loading complete. 
+2017-10-14 - 06:19:06 [1]: ViewModule "keyboard@keyboard" loading complete. 
+2017-10-14 - 06:19:06 [8]: Loaded backend plugin:  "pmlibpartedbackendplugin"
+2017-10-14 - 06:19:06 [1]: ViewModule "partition@partition" loading complete. 
+2017-10-14 - 06:19:06 [1]: ViewModule "users@users" loading complete. 
+2017-10-14 - 06:19:06 [1]: ViewModule "summary@summary" loading complete. 
+2017-10-14 - 06:19:06 [1]: Module "partition@partition" already loaded. 
+2017-10-14 - 06:19:06 [1]: QML import paths: ("/usr/share/calamares/qml", "/usr/bin", "qrc:/qt-project.org/imports", "/usr/lib/qt/qml") 
+2017-10-14 - 06:19:06 [1]: Module "locale@locale" already loaded. 
+2017-10-14 - 06:19:06 [1]: Module "keyboard@keyboard" already loaded. 
+2017-10-14 - 06:19:06 [1]: Module "users@users" already loaded. 
+2017-10-14 - 06:19:06 [1]: FinishedPage() 
+2017-10-14 - 06:19:06 [1]: ViewModule "finished@finished" loading complete. 
+2017-10-14 - 06:19:06 [1]: STARTUP: loadModules for all modules done 
+2017-10-14 - 06:19:06 [1]: STARTUP: Window now visible and ProgressTreeView populated 
+2017-10-14 - 06:19:06 [1]: Need at least storage bytes: 5905580032 
+2017-10-14 - 06:19:07 [1]: Need at least ram bytes: 1073741824 
+2017-10-14 - 06:19:07 [1]: enoughStorage, enoughRam, hasPower, hasInternet, isRoot:  true true true true true 
+2017-10-14 - 06:19:07 [1]: xkbmap selection changed to:  "us" - "" 
+2017-10-14 - 07:19:08 [1]: WARNING: guessLocaleConfiguration can't guess from an empty list. 
+2017-10-14 - 02:19:08 [1]: WARNING: guessLocaleConfiguration can't guess from an empty list. 
+2017-10-14 - 02:19:08 [1]: WARNING: guessLocaleConfiguration can't guess from an empty list. 
+2017-10-14 - 02:19:08 [1]: WARNING: guessLocaleConfiguration can't guess from an empty list. 
+2017-10-14 - 02:19:09 [8]: getting smart status failed for  "/dev/sdd" :  Operation not supported
+2017-10-14 - 02:19:09 [8]: getting smart status failed for  "/dev/sde" :  Operation not supported
+2017-10-14 - 02:19:09 [1]: Removing unsuitable devices: 4 candidates. 
+2017-10-14 - 02:19:09 [1]:   .. Removing device with iso9660 filesystem (probably a CD) on it "/dev/sdd" 
+2017-10-14 - 02:19:09 [1]: LIST OF DETECTED DEVICES: 
+2017-10-14 - 02:19:09 [1]: node	capacity	name	prettyName 
+2017-10-14 - 02:19:09 [1]: "/dev/sda" 320070320640 "ATA WDC WD3200BEVT-1" "ATA WDC WD3200BEVT-1 – 298.09 GiB (/dev/sda)" 
+2017-10-14 - 02:19:09 [1]: "/dev/sdb" 1000202273280 "ATA ST1000DM003-1CH1" "ATA ST1000DM003-1CH1 – 931.51 GiB (/dev/sdb)" 
+2017-10-14 - 02:19:09 [1]: "/dev/sde" 98703360 "Linux File-CD Gadget" "Linux File-CD Gadget – 94.13 MiB (/dev/sde)" 
+2017-10-14 - 02:19:09 [1]: .. 3 devices detected. 
+2017-10-14 - 02:19:12 [1]: "Osprober lines, clean:\n" 
+2017-10-14 - 02:19:12 [1]: Found EFI system partition at "/dev/sdb1" 
+2017-10-14 - 02:19:12 [1]: Found EFI system partition at "/dev/sde1" 
+2017-10-14 - 02:19:12 [1]: Updating partitioning state widgets. 
+2017-10-14 - 02:19:12 [0]: QObject::setParent: Cannot set parent, new parent is in a different thread
+2017-10-14 - 02:19:12 [1]: Required  storage B: 8589934592 "(8GB)" 
+2017-10-14 - 02:19:12 [1]: Available storage B: 313909342208 "(292GB)" for "/dev/sda1"    length: 625139712    sectorsUsed: 12035528    fsType: "ext4" 
+2017-10-14 - 02:19:12 [1]: Partition "/dev/sda1" authorized for resize + autopartition install. 
+2017-10-14 - 02:19:12 [1]: Required  storage B: 6442450944 "(6GB)" 
+2017-10-14 - 02:19:12 [1]: Storage capacity  B: 320071532544 "(298GB)" for "/dev/sda1"    length: 625139712 
+2017-10-14 - 02:19:12 [1]: Partition "/dev/sda1" authorized for replace install. 
+2017-10-14 - 02:19:12 [1]: Updating partitioning preview widgets. 
